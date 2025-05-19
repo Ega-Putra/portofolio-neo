@@ -38,7 +38,7 @@ const projectPage = `
         <img src="src/preview1.png" class="project-img">
     </div>
     <div class="tengah">
-        <a href="">Dodolanku</a>
+        <a href="https://dodolanku.vercel.app/" target="_blank">Dodolanku</a>
     </div>
     <div class="bawah">
         <div class="tech" style="background-color: orange;">HTML</div>
@@ -51,7 +51,7 @@ const projectPage = `
         <img src="src/previewabsen.png" class="project-img">
     </div>
     <div class="tengah">
-        <a href="">Absenku</a>
+        <a href="https://github.com/Ega-Putra/absenku" target="_blank">Absenku</a>
     </div>
     <div class="bawah">
         <div class="tech" style="background-color: orange;">HTML</div>
