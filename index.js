@@ -59,6 +59,7 @@ const projectPage = `
         <div class="tech" style="background-color: yellow;">JS</div>
         <div class="tech" style="background-color: greenyellow;">Nodejs</div>
         <div class="tech" style="background-color: aquamarine;">MongoDB</div>
+        <div class="tech" style="background-color: white;">Chartjs</div>
     </div>
 </div>
 <div class="project-box">
