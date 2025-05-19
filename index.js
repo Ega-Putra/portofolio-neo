@@ -63,7 +63,7 @@ const projectPage = `
 </div>
 <div class="project-box">
     <div class="atas">
-        <img src="src/previewCALC.png" class="project-img">
+        <img src="src/previewcalc.png" class="project-img">
     </div>
     <div class="tengah">
         <a href="">Calculator</a>
